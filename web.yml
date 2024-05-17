@@ -1,0 +1,6 @@
+tls_server_config:
+  cert_file: /etc/prometheus/cert
+  key_file: /etc/prometheus/cert
+  client_auth_type: RequireAndVerifyClientCert
+ 
+
